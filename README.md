@@ -1,6 +1,3 @@
-Voici la traduction en anglais de ton README enrichi :
-
----
 
 # 🎬 Movies  
 
